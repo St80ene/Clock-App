@@ -28,4 +28,5 @@ HTML5, JavaScript, CSS3
 - They should get a different background Image depending on the time of the day
 
 
-## Hosted link: https://st80ene.github.io/Clock-App/
+## Hosted link: 
+  https://st80ene.github.io/Clock-App/
