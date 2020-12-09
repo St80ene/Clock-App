@@ -26,3 +26,6 @@ HTML5, JavaScript, CSS3
 - The user should be greeted depending on the time of the day
 
 - They should get a different background Image depending on the time of the day
+
+
+## Hosted link: https://st80ene.github.io/Clock-App/
